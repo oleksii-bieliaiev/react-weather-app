@@ -1,0 +1,10 @@
+.error-message {
+  display: flex;
+  padding-left: 4.2rem;
+  padding-top: 1.3rem;
+  color: rgb(250, 247, 247);
+
+  @media (max-width: 440px) {
+    padding-left: 2rem;
+  }
+}
